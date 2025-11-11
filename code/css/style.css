@@ -1,0 +1,18 @@
+.imagen {
+ 
+    width: 250px;
+    height: 250px;
+}
+
+h2{
+    color:darkgoldenrod ;
+}
+
+body{
+
+    background-image: url(imagenes/be450eebefbee1e14fe9e380abe4ae95.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
